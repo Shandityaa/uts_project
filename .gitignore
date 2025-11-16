@@ -1,0 +1,70 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VSCode
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+coverage/
+
+# Android build & intermediates (PENTING)
+android/.gradle/
+android/build/
+android/app/build/
+android/app/debug/
+android/app/profile/
+android/app/release/
+**/android/app/intermediates/
+**/android/app/outputs/
+**/android/app/merged_res/
+**/android/app/packaged_manifests/
+
+# iOS build
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+ios/build/
+ios/Pods/
+ios/.symlinks/
+
+# Linux, macOS, Windows builds
+linux/flutter/
+macos/Flutter/
+windows/flutter/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Lock files
+pubspec.lock

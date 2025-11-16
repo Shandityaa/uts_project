@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "172910856288",
+    "project_id": "uts-movie-app",
+    "storage_bucket": "uts-movie-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172910856288:android:ea25dc6dc68b556d2f9b05",
+        "android_client_info": {
+          "package_name": "com.example.uts_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172910856288-6uj1nd7lcvekffr0r3fgr25uh9oa2gn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uts_project",
+            "certificate_hash": "8c12f47f510989c50b40c65503f7fdf91ac14c0a"
+          }
+        },
+        {
+          "client_id": "172910856288-fqfm1ttujilrumqcmsfh55ete8rli1ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2hM0uF1HMbxIDHVqtIgGCHxnJX6IM33M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172910856288-fqfm1ttujilrumqcmsfh55ete8rli1ln.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172910856288-lbo08bn0bs1fgu8qs3iefoh1nta3ibi5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.utsProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
