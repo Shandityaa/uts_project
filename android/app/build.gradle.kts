@@ -39,5 +39,5 @@ flutter {
     source = "../.."
 }
 
-// WAJIB untuk Firebase di Kotlin DSL
+// WAJIB Untuk Firebase di Kotlin DSL
 apply(plugin = "com.google.gms.google-services")
